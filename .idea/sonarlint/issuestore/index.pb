@@ -1,0 +1,45 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+]
+-src/main/java/automationtests/TestAlerts.java,e\b\ebc28f6e6284a595cd8cea8d41ca26fa140b90f8
+d
+4src/main/java/automationtests/TestBasicElements.java,b\7\b7da8cb1cb223a8c6a6cd6d66364ffd75cf1a674
+a
+1src/main/java/automationtests/FormSubmission.java,b\4\b401b45ee6dc001a8716e086cc0c4a1e56446830
+^
+.src/main/java/automationtests/TesteGoogle.java,2\1\215a942b2b9ad30c4cf36c7b272109a76ca6fe8b
+d
+4src/main/java/automationtests/TestFramesWindows.java,6\e\6e22225186238dd61ccd495e5ec9948bc2a3ab24
+R
+"src/main/java/Utils/Utilities.java,c\4\c4c33168eecac6103c8dafea28f4f9971836d745
+_
+/src/main/java/automationtests/BusinessRule.java,e\a\ea1459e398a3aa50ba853d706fd507d5be3077eb
+P
+ src/main/java/enums/Browser.java,6\5\6595871f5fa0313e8bed6796d66c9bc8f992636f
+T
+$src/main/java/enums/ElementType.java,0\e\0ea093dc34a4a882751ff2be182fd3203bf5d25f
+P
+ src/main/java/utils/Element.java,6\7\67e6c7cad262a93435274edbfa5f4fd603eef0ba
+R
+"src/main/java/utils/Utilities.java,1\b\1beeb07524ebef800617114e8830b2a473ac013b
+N
+src/main/java/utils/Alert.java,e\2\e2a6e3e7040c80b7613863ee2bea1212c927212c
+N
+src/main/java/utils/Frame.java,5\3\53f0bfe7a8da5ee4630d12664d1cce7d0a89d99e
+_
+/src/main/java/pageObjects/TrainingCampPage.java,5\c\5cbc78ec95e323e6471ac1d21b06fcb5dacdafcd
+A
+CursoSelenium.iml,1\d\1d731046655a3ec21b20c01309bb9eb434ab9f38
+O
+src/main/java/enums/Gender.java,e\5\e5519f48f840d6735cf982d990f6d7b8c0ca5dad
+U
+%src/main/java/enums/FavoriteFood.java,6\1\61a2d1fa80450208317d51fa5ea5bd19cdce8bce
+R
+"src/main/java/enums/Education.java,d\a\daf5d21ed2026b9457ee74e467a0968b56bc3569
+O
+src/main/java/enums/Sports.java,6\d\6d0689b34ebcf273b6392cc0ccc3a52df2f594ad
+q
+Asrc/main/java/automationtests/ParameterizedBusinessRuleTests.java,7\8\78abb7ec303b52f60dfb1f4bf46979062197e1e1
+b
+2src/main/java/automationtests/UsingTestSuites.java,6\4\64ad11807710bb1468c33a9ab6c4870c7b533b81

@@ -1,0 +1,9 @@
+
+k
+java:S1192*"IDefine a constant instead of duplicating this literal "textarea" 4 times.(¿Â„Ãúÿÿÿÿ8ÑÉ‡‹Ï1
+L	java:S1063"+Replace this use of System.out by a logger.(¬¾¯žÿÿÿÿÿ8ÛÉ‡‹Ï1
+G	java:S1064"+Replace this use of System.out by a logger.(žˆìö8ÜÉ‡‹Ï1
+S
+java:S1128"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8Ï¢Š‹Ï1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›8³÷Œ‹Ï1
