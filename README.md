@@ -1,2 +1,1 @@
-# Curso_Selenium
- Curso de Automação com Selenium WebDriver
+# Curso de Automação de Testes com Selenium WebDriver e JUnit
